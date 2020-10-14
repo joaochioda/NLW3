@@ -1,0 +1,1 @@
+mapa gratuito alem do mapbox - https://a.tile.openstreetmap.org/{z}/{x}/{y}.png
